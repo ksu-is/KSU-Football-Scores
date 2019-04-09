@@ -11,8 +11,8 @@ A sports ticker that keeps updated scores of NBA games
 
 Each of these aspects will lend themselves to the final product of the processes of our application.
 
-Road Map 
-Upcoming Tasks for Each Team Member:
+## Road Map 
+### Upcoming Tasks for Each Team Member:
 Horace 
 
 [X] Set up README
