@@ -3,7 +3,7 @@ A sports ticker that keeps updated scores of NBA games
 ## Getting Started
 
 ## We will need to find related repository code centering on:
- [ ] Pulling Team Information from a database
+*[ ] Pulling Team Information from a database
  [ ] Saving User Data Input
  [X] Notification and Alerts
  [ ] Updating Calendar Dates Autonomously
