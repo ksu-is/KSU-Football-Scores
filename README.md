@@ -26,3 +26,7 @@ Add new tasks to the Road Map as needed*
 
 ### Deployment
 Our application will be functional and presented to the class at the end of the semester 
+
+## Built With
+* [Jupyter Notebooks]() - coding site
+* [Python]() - The web framework used
