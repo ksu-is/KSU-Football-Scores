@@ -24,5 +24,5 @@ Horace
 
 Add new tasks to the Road Map as needed* 
 
-Deployment
+### Deployment
 Our application will be functional and presented to the class at the end of the semester 
