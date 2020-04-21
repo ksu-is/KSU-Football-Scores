@@ -17,7 +17,7 @@ for i in range(len(allGamesContainer)):
 game = 1
 while game != 0 :
 	print("Enter 0 to exit")
-	game = int(input("Choose one of the games mentioned above with their indexes: "))
+	game = int(input("Choose one of the games above with their indexes: "))
 
 	if game > 0 and game < (len(allGamesContainer) + 1):
 		resGame = requests.get("http://www.nbaboxscoregenerator.com/?gameID=" + str(game - 1))
