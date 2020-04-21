@@ -45,3 +45,5 @@ while game != 0 :
 	else:
 		print("Please choose a number from the index or press 0 to exit") 
 
+		
+print(Welcome to the NBA Box Score Generator!)
