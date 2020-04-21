@@ -3,10 +3,9 @@ A sports ticker that keeps updated scores of NBA games
 ## Getting Started
 
 ## We will need to find related repository code centering on:
-[ ] Pulling Team Information from a database
-[ ] Saving User Data Input
+[X] Pulling Team Information from a database
+[X] Saving User Data Input
 [X] Notification and Alerts
-[ ] Updating Calendar Dates Autonomously
 
 
 Each of these aspects will lend themselves to the final product of the processes of our application.
@@ -20,7 +19,7 @@ Horace
 [X] Test existing repositories for accuracy, relevancy, and functionality
 [X] Make edits to new repositories
 [X] Report any issues encountered, progress made
-[ ] Develop at least half a page of code writing/edits in personal repository
+[X] Develop at least half a page of code writing/edits in personal repository
 
 Add new tasks to the Road Map as needed* 
 
