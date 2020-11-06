@@ -1,11 +1,11 @@
 # Sports-Score-Ticker
-A sports ticker that keeps updated scores of NBA games
+A sports ticker that keeps updated scores of KSU Football Games
 ## Getting Started
 
 ## We will need to find related repository code centering on:
-[ ] Pulling Team Information from a database
+[ ] Pulling KSU Team Information from a database
 [ ] Saving User Data Input
-[X] Notification and Alerts
+[ ] Notification and Alerts
 [ ] Updating Calendar Dates Autonomously
 [ ] Updating Scores Autonomously 
 
@@ -25,9 +25,9 @@ Horace
 Add new tasks to the Road Map as needed* 
 
 ### Deployment
-Our application will be functional and presented to the class at the end of the semester 
+My application will be functional and presented to the class at the end of the semester 
 
 ## Built With
 * [Jupyter Notebooks]() - coding site
 * [Python]() - The web framework used
-* [https://github.com/EndreoT/ClientReactivation]() - Notification code
+* https://github.com/ksu-is/Sports-Score-Ticker.git 
