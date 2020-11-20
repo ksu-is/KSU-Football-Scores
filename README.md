@@ -32,4 +32,4 @@ My application will be functional and presented to the class at the end of the s
 * [Jupyter Notebooks]() - coding site
 * [Python]() - The web framework used
 * https://github.com/ksu-is/Sports-Score-Ticker.git 
-* 
+* https://github.com/ksu-is/sports.py.git
