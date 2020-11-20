@@ -12,15 +12,15 @@ A sports ticker that keeps updated scores of KSU Football Games
 Each of these aspects will lend themselves to the final product of the processes of our application.
 
 ## Road Map 
-### Upcoming Tasks for Each Team Member:
-Horace 
+### Upcoming Tasks for Each Team Member: Logan
 
 [X] Set up README
 [X] Find at least 1 related repository & add to our project
-[ ] Test existing repositories for accuracy, relevancy, and functionality
-[ ] Make edits to new repositories
+[X] Test existing repositories for accuracy, relevancy, and functionality
+[X] Make edits to new repositories
 [ ] Report any issues encountered, progress made
 [ ] Develop at least half a page of code writing/edits in personal repository
+[ ] Learn more about how to import data from Beautiful Soup
 
 Add new tasks to the Road Map as needed* 
 
